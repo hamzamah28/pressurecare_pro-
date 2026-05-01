@@ -1,0 +1,18 @@
+name: pressurecare_pro
+description: Medical AI app
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http:
+  sqflite:
+  path:
+  image_picker:
+  pdf:
+
+flutter:
+  uses-material-design: true
